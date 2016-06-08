@@ -1,0 +1,2 @@
+invalid value "." for flag --tag: Error parsing reference: "." is not a valid repository/tag
+See 'docker build --help'.
